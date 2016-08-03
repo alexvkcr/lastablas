@@ -1,0 +1,4 @@
+According to this StackOverflow question: http://stackoverflow.com/questions/3497908/rails-which-is-the-preferred-mailchimp-gem
+
+There used to be several gems to use Mailchimp but now there is an official gem which is higly recommended and stored at
+https://bitbucket.org/mailchimp/mailchimp-api-ruby/

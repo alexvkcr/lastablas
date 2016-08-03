@@ -118,3 +118,6 @@ gem 'redcarpet', '~> 2.1.1'
 
 # Introducing Angular UI
 gem "angular-ui-bootstrap-rails",     "~>1.3.0"
+
+#Using mailchimp official gem
+gem "mailchimp-api",  "~2.0.6"
